@@ -1,0 +1,8 @@
+com\authorization\userdetails\Users.class
+com\authorization\Application.class
+com\authorization\userdetails\MyUserDetails.class
+com\authorization\controller\ResourceController.class
+com\authorization\config\SecurityConfig.class
+com\authorization\repository\UserRepository.class
+com\authorization\userdetails\Roles.class
+com\authorization\service\MyUserDetailsService.class
